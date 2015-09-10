@@ -1,0 +1,50 @@
+{
+  "name": "generator-hapi-mysql-routes",
+  "version": "1.0.0",
+  "description": "Scaffold a hapi mysql routes plugin that generates crud api routes for mysql resource",
+  "license": "MIT",
+  "repository": "CascadeEnergy/generator-hapi-mysql-routes",
+  "author": {
+    "name": "Jinsy Oommen",
+    "email": "jinsyaoommen@gmail.com"
+  },
+  "engines": {
+    "node": ">=0.10.0"
+  },
+  "scripts": {
+    "test": "mocha"
+  },
+  "files": [
+    "app"
+  ],
+  "keywords": [
+    "yeoman-generator",
+    "plugin",
+    "boilerplate",
+    "template",
+    "scaffold",
+    "node",
+    "module",
+    "node_module",
+    "node-module",
+    "ECMASCRIPT 6",
+    "ES6",
+    "babel",
+    "transpile",
+    "gulp"
+  ],
+  "dependencies": {
+    "chalk": "^1.0.0",
+    "humanize-url": "^1.0.1",
+    "lodash": "^3.10.0",
+    "normalize-url": "^1.2.0",
+    "superb": "^1.1.3",
+    "underscore.string": "^3.0.3",
+    "yeoman-generator": "^0.19.2",
+    "yosay": "^1.0.2"
+  },
+  "devDependencies": {
+    "mocha": "*",
+    "yeoman-assert": "^2.0.0"
+  }
+}
